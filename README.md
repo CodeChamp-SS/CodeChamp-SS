@@ -59,7 +59,6 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activities</summary>
 
   <!--START_SECTION:activity-->
-  <!--END_SECTION:activity-->
 
 </details>
 
