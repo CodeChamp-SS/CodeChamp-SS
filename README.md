@@ -3,7 +3,8 @@
 [![Repos Badge](https://badges.pufler.dev/repos/CodeChamp-SS)](https://badges.pufler.dev)
 
 
-### Hi there, I am Saarthak Seth - aka CodeChamp_SS 👋
+### Hi there, I am Saarthak Seth - aka CodeChamp_SS <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+view raw
 
 <!--
 **CodeChamp-SS/CodeChamp-SS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,6 +19,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 ## I'm a Developer, and a Competitive Programmer !!
 
 - 🌱 I’m currently learning everything
@@ -49,9 +51,30 @@ Here are some ideas to get you started:
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-codechamp-ss.vercel.app/api?username=CodeChamp-SS&show_icons=true&hide_border=true&theme=radical" />
+  <img align="centre" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-codechamp-ss.vercel.app/api?username=CodeChamp-SS&show_icons=true&hide_border=true&theme=radical" />
 
 </details>
+
+<details>
+  
+  <summary>:zap: Some of my Cool Projects</summary>
+  
+  <a href="https://github.com/CodeChamp-SS/ProTeams-ProjectManagementApp">
+  <img align="center" src="https://github-readme-stats-codechamp-ss.vercel.app/api/pin/?username=CodeChamp-SS&repo=ProTeams-ProjectManagementApp&theme=radical" />
+</a>
+<a href="https://github.com/CodeChamp-SS/SwampHackGame">
+  <img align="center" src="https://github-readme-stats-codechamp-ss.vercel.app/api/pin/?username=CodeChamp-SS&repo=SwampHackGame&theme=radical" />
+</a>
+<br />
+<a href="https://github.com/CodeChamp-SS/RunningTrackerApp">
+  <img align="center" src="https://github-readme-stats-codechamp-ss.vercel.app/api/pin/?username=CodeChamp-SS&repo=RunningTrackerApp&theme=radical" />
+</a>
+<a href="https://github.com/CodeChamp-SS/7MinutesWorkout">
+  <img align="center" src="https://github-readme-stats-codechamp-ss.vercel.app/api/pin/?username=CodeChamp-SS&repo=7MinutesWorkout&theme=radical" />
+</a>
+  
+</details>
+
 
 [linkedin]: https://www.linkedin.com/in/saarthak-seth/
 [codechef]: https://www.codechef.com/users/saarthak_10
