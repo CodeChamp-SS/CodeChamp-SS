@@ -56,6 +56,14 @@ Here are some ideas to get you started:
 </details>
 
 <details>
+  <summary>:zap: Recent GitHub Activities</summary>
+
+  <!--START_SECTION:activity-->
+  <!--END_SECTION:activity-->
+
+</details>
+
+<details>
   
   <summary>:zap: Some of my Cool Projects</summary>
   
