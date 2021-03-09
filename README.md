@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 2. 🗣 Commented on [#817](https://github.com/anitab-org/mentorship-android/issues/817) in [anitab-org/mentorship-android](https://github.com/anitab-org/mentorship-android)
 3. 🗣 Commented on [#817](https://github.com/anitab-org/mentorship-android/issues/817) in [anitab-org/mentorship-android](https://github.com/anitab-org/mentorship-android)
 4. 🗣 Commented on [#817](https://github.com/anitab-org/mentorship-android/issues/817) in [anitab-org/mentorship-android](https://github.com/anitab-org/mentorship-android)
-5. 🗣 Commented on [#977](https://github.com/anitab-org/mentorship-android/issues/977) in [anitab-org/mentorship-android](https://github.com/anitab-org/mentorship-android)
+5. 🗣 Commented on [#817](https://github.com/anitab-org/mentorship-android/issues/817) in [anitab-org/mentorship-android](https://github.com/anitab-org/mentorship-android)
 <!--END_SECTION:activity-->
 
 </details>
