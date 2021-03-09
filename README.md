@@ -58,11 +58,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activities</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1069](https://github.com/anitab-org/mentorship-android/issues/1069) in [anitab-org/mentorship-android](https://github.com/anitab-org/mentorship-android)
+1. 🗣 Commented on [#977](https://github.com/anitab-org/mentorship-android/issues/977) in [anitab-org/mentorship-android](https://github.com/anitab-org/mentorship-android)
 2. 🗣 Commented on [#1069](https://github.com/anitab-org/mentorship-android/issues/1069) in [anitab-org/mentorship-android](https://github.com/anitab-org/mentorship-android)
 3. 🗣 Commented on [#1069](https://github.com/anitab-org/mentorship-android/issues/1069) in [anitab-org/mentorship-android](https://github.com/anitab-org/mentorship-android)
 4. 🗣 Commented on [#1069](https://github.com/anitab-org/mentorship-android/issues/1069) in [anitab-org/mentorship-android](https://github.com/anitab-org/mentorship-android)
-5. 🗣 Commented on [#884](https://github.com/anitab-org/mentorship-android/issues/884) in [anitab-org/mentorship-android](https://github.com/anitab-org/mentorship-android)
+5. 🗣 Commented on [#1069](https://github.com/anitab-org/mentorship-android/issues/1069) in [anitab-org/mentorship-android](https://github.com/anitab-org/mentorship-android)
 <!--END_SECTION:activity-->
 
 </details>
