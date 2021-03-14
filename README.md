@@ -58,7 +58,7 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activities</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1006](https://github.com/anitab-org/mentorship-android/issues/1006) in [anitab-org/mentorship-android](https://github.com/anitab-org/mentorship-android)
+1. 🗣 Commented on [#883](https://github.com/anitab-org/mentorship-android/issues/883) in [anitab-org/mentorship-android](https://github.com/anitab-org/mentorship-android)
 2. 🗣 Commented on [#1006](https://github.com/anitab-org/mentorship-android/issues/1006) in [anitab-org/mentorship-android](https://github.com/anitab-org/mentorship-android)
 3. 🗣 Commented on [#1006](https://github.com/anitab-org/mentorship-android/issues/1006) in [anitab-org/mentorship-android](https://github.com/anitab-org/mentorship-android)
 4. 🗣 Commented on [#1006](https://github.com/anitab-org/mentorship-android/issues/1006) in [anitab-org/mentorship-android](https://github.com/anitab-org/mentorship-android)
