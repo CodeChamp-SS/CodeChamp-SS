@@ -60,9 +60,9 @@ Here are some ideas to get you started:
   <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1006](https://github.com/anitab-org/mentorship-android/issues/1006) in [anitab-org/mentorship-android](https://github.com/anitab-org/mentorship-android)
 2. 🗣 Commented on [#1006](https://github.com/anitab-org/mentorship-android/issues/1006) in [anitab-org/mentorship-android](https://github.com/anitab-org/mentorship-android)
-3. ❌ Reopened PR [#1006](https://github.com/anitab-org/mentorship-android/pull/1006) in [anitab-org/mentorship-android](https://github.com/anitab-org/mentorship-android)
-4. ❌ Closed PR [#1006](https://github.com/anitab-org/mentorship-android/pull/1006) in [anitab-org/mentorship-android](https://github.com/anitab-org/mentorship-android)
-5. 🗣 Commented on [#1006](https://github.com/anitab-org/mentorship-android/issues/1006) in [anitab-org/mentorship-android](https://github.com/anitab-org/mentorship-android)
+3. 🗣 Commented on [#1006](https://github.com/anitab-org/mentorship-android/issues/1006) in [anitab-org/mentorship-android](https://github.com/anitab-org/mentorship-android)
+4. ❌ Reopened PR [#1006](https://github.com/anitab-org/mentorship-android/pull/1006) in [anitab-org/mentorship-android](https://github.com/anitab-org/mentorship-android)
+5. ❌ Closed PR [#1006](https://github.com/anitab-org/mentorship-android/pull/1006) in [anitab-org/mentorship-android](https://github.com/anitab-org/mentorship-android)
 <!--END_SECTION:activity-->
 
 </details>
