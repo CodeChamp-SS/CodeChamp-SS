@@ -61,8 +61,8 @@ Here are some ideas to get you started:
 1. 🗣 Commented on [#4077](https://github.com/Catrobat/Catroid/issues/4077) in [Catrobat/Catroid](https://github.com/Catrobat/Catroid)
 2. 🗣 Commented on [#4077](https://github.com/Catrobat/Catroid/issues/4077) in [Catrobat/Catroid](https://github.com/Catrobat/Catroid)
 3. 🗣 Commented on [#4077](https://github.com/Catrobat/Catroid/issues/4077) in [Catrobat/Catroid](https://github.com/Catrobat/Catroid)
-4. 💪 Opened PR [#4077](https://github.com/Catrobat/Catroid/pull/4077) in [Catrobat/Catroid](https://github.com/Catrobat/Catroid)
-5. 💪 Opened PR [#4073](https://github.com/Catrobat/Catroid/pull/4073) in [Catrobat/Catroid](https://github.com/Catrobat/Catroid)
+4. 🗣 Commented on [#4077](https://github.com/Catrobat/Catroid/issues/4077) in [Catrobat/Catroid](https://github.com/Catrobat/Catroid)
+5. 🗣 Commented on [#4077](https://github.com/Catrobat/Catroid/issues/4077) in [Catrobat/Catroid](https://github.com/Catrobat/Catroid)
 <!--END_SECTION:activity-->
 
 </details>
