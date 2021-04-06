@@ -58,7 +58,7 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activities</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4077](https://github.com/Catrobat/Catroid/issues/4077) in [Catrobat/Catroid](https://github.com/Catrobat/Catroid)
+1. 🗣 Commented on [#1](https://github.com/google/android-emulator-m1-preview/issues/1) in [google/android-emulator-m1-preview](https://github.com/google/android-emulator-m1-preview)
 2. 🗣 Commented on [#4077](https://github.com/Catrobat/Catroid/issues/4077) in [Catrobat/Catroid](https://github.com/Catrobat/Catroid)
 3. 🗣 Commented on [#4077](https://github.com/Catrobat/Catroid/issues/4077) in [Catrobat/Catroid](https://github.com/Catrobat/Catroid)
 4. 🗣 Commented on [#4077](https://github.com/Catrobat/Catroid/issues/4077) in [Catrobat/Catroid](https://github.com/Catrobat/Catroid)
