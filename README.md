@@ -58,11 +58,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activities</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4081](https://github.com/Catrobat/Catroid/issues/4081) in [Catrobat/Catroid](https://github.com/Catrobat/Catroid)
-2. 💪 Opened PR [#4093](https://github.com/Catrobat/Catroid/pull/4093) in [Catrobat/Catroid](https://github.com/Catrobat/Catroid)
-3. 🗣 Commented on [#4081](https://github.com/Catrobat/Catroid/issues/4081) in [Catrobat/Catroid](https://github.com/Catrobat/Catroid)
-4. 🗣 Commented on [#1](https://github.com/google/android-emulator-m1-preview/issues/1) in [google/android-emulator-m1-preview](https://github.com/google/android-emulator-m1-preview)
-5. 💪 Opened PR [#4081](https://github.com/Catrobat/Catroid/pull/4081) in [Catrobat/Catroid](https://github.com/Catrobat/Catroid)
+1. 💪 Opened PR [#870](https://github.com/Catrobat/Paintroid/pull/870) in [Catrobat/Paintroid](https://github.com/Catrobat/Paintroid)
+2. 🗣 Commented on [#4081](https://github.com/Catrobat/Catroid/issues/4081) in [Catrobat/Catroid](https://github.com/Catrobat/Catroid)
+3. 💪 Opened PR [#4093](https://github.com/Catrobat/Catroid/pull/4093) in [Catrobat/Catroid](https://github.com/Catrobat/Catroid)
+4. 🗣 Commented on [#4081](https://github.com/Catrobat/Catroid/issues/4081) in [Catrobat/Catroid](https://github.com/Catrobat/Catroid)
+5. 🗣 Commented on [#1](https://github.com/google/android-emulator-m1-preview/issues/1) in [google/android-emulator-m1-preview](https://github.com/google/android-emulator-m1-preview)
 <!--END_SECTION:activity-->
 
 </details>
