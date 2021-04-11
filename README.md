@@ -58,11 +58,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activities</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4081](https://github.com/Catrobat/Catroid/issues/4081) in [Catrobat/Catroid](https://github.com/Catrobat/Catroid)
+1. 🗣 Commented on [#870](https://github.com/Catrobat/Paintroid/issues/870) in [Catrobat/Paintroid](https://github.com/Catrobat/Paintroid)
 2. 🗣 Commented on [#870](https://github.com/Catrobat/Paintroid/issues/870) in [Catrobat/Paintroid](https://github.com/Catrobat/Paintroid)
-3. 🗣 Commented on [#4073](https://github.com/Catrobat/Catroid/issues/4073) in [Catrobat/Catroid](https://github.com/Catrobat/Catroid)
-4. 🗣 Commented on [#4093](https://github.com/Catrobat/Catroid/issues/4093) in [Catrobat/Catroid](https://github.com/Catrobat/Catroid)
-5. 💪 Opened PR [#870](https://github.com/Catrobat/Paintroid/pull/870) in [Catrobat/Paintroid](https://github.com/Catrobat/Paintroid)
+3. 🗣 Commented on [#4081](https://github.com/Catrobat/Catroid/issues/4081) in [Catrobat/Catroid](https://github.com/Catrobat/Catroid)
+4. 🗣 Commented on [#870](https://github.com/Catrobat/Paintroid/issues/870) in [Catrobat/Paintroid](https://github.com/Catrobat/Paintroid)
+5. 🗣 Commented on [#4073](https://github.com/Catrobat/Catroid/issues/4073) in [Catrobat/Catroid](https://github.com/Catrobat/Catroid)
 <!--END_SECTION:activity-->
 
 </details>
