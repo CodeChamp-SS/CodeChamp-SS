@@ -58,11 +58,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activities</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#870](https://github.com/Catrobat/Paintroid/issues/870) in [Catrobat/Paintroid](https://github.com/Catrobat/Paintroid)
+1. 🗣 Commented on [#1](https://github.com/google/android-emulator-m1-preview/issues/1) in [google/android-emulator-m1-preview](https://github.com/google/android-emulator-m1-preview)
 2. 🗣 Commented on [#870](https://github.com/Catrobat/Paintroid/issues/870) in [Catrobat/Paintroid](https://github.com/Catrobat/Paintroid)
 3. 🗣 Commented on [#870](https://github.com/Catrobat/Paintroid/issues/870) in [Catrobat/Paintroid](https://github.com/Catrobat/Paintroid)
-4. 🗣 Commented on [#4081](https://github.com/Catrobat/Catroid/issues/4081) in [Catrobat/Catroid](https://github.com/Catrobat/Catroid)
-5. 🗣 Commented on [#870](https://github.com/Catrobat/Paintroid/issues/870) in [Catrobat/Paintroid](https://github.com/Catrobat/Paintroid)
+4. 🗣 Commented on [#870](https://github.com/Catrobat/Paintroid/issues/870) in [Catrobat/Paintroid](https://github.com/Catrobat/Paintroid)
+5. 🗣 Commented on [#4081](https://github.com/Catrobat/Catroid/issues/4081) in [Catrobat/Catroid](https://github.com/Catrobat/Catroid)
 <!--END_SECTION:activity-->
 
 </details>
