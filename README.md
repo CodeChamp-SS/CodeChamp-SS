@@ -59,8 +59,8 @@ Here are some ideas to get you started:
 
   <!--START_SECTION:activity-->
 1. 🗣 Commented on [#870](https://github.com/Catrobat/Paintroid/issues/870) in [Catrobat/Paintroid](https://github.com/Catrobat/Paintroid)
-2. 💪 Opened PR [#877](https://github.com/Catrobat/Paintroid/pull/877) in [Catrobat/Paintroid](https://github.com/Catrobat/Paintroid)
-3. 🗣 Commented on [#4093](https://github.com/Catrobat/Catroid/issues/4093) in [Catrobat/Catroid](https://github.com/Catrobat/Catroid)
+2. 🗣 Commented on [#870](https://github.com/Catrobat/Paintroid/issues/870) in [Catrobat/Paintroid](https://github.com/Catrobat/Paintroid)
+3. 💪 Opened PR [#877](https://github.com/Catrobat/Paintroid/pull/877) in [Catrobat/Paintroid](https://github.com/Catrobat/Paintroid)
 4. 🗣 Commented on [#4093](https://github.com/Catrobat/Catroid/issues/4093) in [Catrobat/Catroid](https://github.com/Catrobat/Catroid)
 5. 🗣 Commented on [#4093](https://github.com/Catrobat/Catroid/issues/4093) in [Catrobat/Catroid](https://github.com/Catrobat/Catroid)
 <!--END_SECTION:activity-->
