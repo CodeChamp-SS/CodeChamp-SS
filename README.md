@@ -58,11 +58,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activities</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1101](https://github.com/anitab-org/mentorship-android/issues/1101) in [anitab-org/mentorship-android](https://github.com/anitab-org/mentorship-android)
-2. 🗣 Commented on [#4169](https://github.com/Catrobat/Catroid/issues/4169) in [Catrobat/Catroid](https://github.com/Catrobat/Catroid)
+1. 💪 Opened PR [#893](https://github.com/Catrobat/Paintroid/pull/893) in [Catrobat/Paintroid](https://github.com/Catrobat/Paintroid)
+2. 🗣 Commented on [#1101](https://github.com/anitab-org/mentorship-android/issues/1101) in [anitab-org/mentorship-android](https://github.com/anitab-org/mentorship-android)
 3. 🗣 Commented on [#4169](https://github.com/Catrobat/Catroid/issues/4169) in [Catrobat/Catroid](https://github.com/Catrobat/Catroid)
-4. 💪 Opened PR [#4169](https://github.com/Catrobat/Catroid/pull/4169) in [Catrobat/Catroid](https://github.com/Catrobat/Catroid)
-5. 🗣 Commented on [#885](https://github.com/Catrobat/Paintroid/issues/885) in [Catrobat/Paintroid](https://github.com/Catrobat/Paintroid)
+4. 🗣 Commented on [#4169](https://github.com/Catrobat/Catroid/issues/4169) in [Catrobat/Catroid](https://github.com/Catrobat/Catroid)
+5. 💪 Opened PR [#4169](https://github.com/Catrobat/Catroid/pull/4169) in [Catrobat/Catroid](https://github.com/Catrobat/Catroid)
 <!--END_SECTION:activity-->
 
 </details>
