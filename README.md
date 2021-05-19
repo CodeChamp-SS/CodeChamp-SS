@@ -1,5 +1,5 @@
 [![Visiters Badge](https://badges.pufler.dev/visits/CodeChamp-SS/CodeChamp-SS)](https://badges.pufler.dev)
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/CodeChamp-SS)](https://badges.pufler.dev)
+[![Commits Badge](https://badges.pufler.dev/commits/yearly/CodeChamp-SS)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/CodeChamp-SS)](https://badges.pufler.dev)
 
 
