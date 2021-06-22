@@ -58,11 +58,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activities</summary>
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#945](https://github.com/Catrobat/Paintroid/pull/945) in [Catrobat/Paintroid](https://github.com/Catrobat/Paintroid)
-2. 💪 Opened PR [#943](https://github.com/Catrobat/Paintroid/pull/943) in [Catrobat/Paintroid](https://github.com/Catrobat/Paintroid)
-3. 💪 Opened PR [#942](https://github.com/Catrobat/Paintroid/pull/942) in [Catrobat/Paintroid](https://github.com/Catrobat/Paintroid)
-4. 💪 Opened PR [#929](https://github.com/Catrobat/Paintroid/pull/929) in [Catrobat/Paintroid](https://github.com/Catrobat/Paintroid)
-5. 🗣 Commented on [#925](https://github.com/Catrobat/Paintroid/issues/925) in [Catrobat/Paintroid](https://github.com/Catrobat/Paintroid)
+1. 🗣 Commented on [#1006](https://github.com/anitab-org/mentorship-android/issues/1006) in [anitab-org/mentorship-android](https://github.com/anitab-org/mentorship-android)
+2. 💪 Opened PR [#945](https://github.com/Catrobat/Paintroid/pull/945) in [Catrobat/Paintroid](https://github.com/Catrobat/Paintroid)
+3. 💪 Opened PR [#943](https://github.com/Catrobat/Paintroid/pull/943) in [Catrobat/Paintroid](https://github.com/Catrobat/Paintroid)
+4. 💪 Opened PR [#942](https://github.com/Catrobat/Paintroid/pull/942) in [Catrobat/Paintroid](https://github.com/Catrobat/Paintroid)
+5. 💪 Opened PR [#929](https://github.com/Catrobat/Paintroid/pull/929) in [Catrobat/Paintroid](https://github.com/Catrobat/Paintroid)
 <!--END_SECTION:activity-->
 
 </details>
