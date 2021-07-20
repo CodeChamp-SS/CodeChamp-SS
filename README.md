@@ -58,11 +58,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activities</summary>
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#981](https://github.com/Catrobat/Paintroid/pull/981) in [Catrobat/Paintroid](https://github.com/Catrobat/Paintroid)
-2. 💪 Opened PR [#980](https://github.com/Catrobat/Paintroid/pull/980) in [Catrobat/Paintroid](https://github.com/Catrobat/Paintroid)
-3. 💪 Opened PR [#979](https://github.com/Catrobat/Paintroid/pull/979) in [Catrobat/Paintroid](https://github.com/Catrobat/Paintroid)
-4. 💪 Opened PR [#978](https://github.com/Catrobat/Paintroid/pull/978) in [Catrobat/Paintroid](https://github.com/Catrobat/Paintroid)
-5. 💪 Opened PR [#977](https://github.com/Catrobat/Paintroid/pull/977) in [Catrobat/Paintroid](https://github.com/Catrobat/Paintroid)
+1. 💪 Opened PR [#982](https://github.com/Catrobat/Paintroid/pull/982) in [Catrobat/Paintroid](https://github.com/Catrobat/Paintroid)
+2. 💪 Opened PR [#981](https://github.com/Catrobat/Paintroid/pull/981) in [Catrobat/Paintroid](https://github.com/Catrobat/Paintroid)
+3. 💪 Opened PR [#980](https://github.com/Catrobat/Paintroid/pull/980) in [Catrobat/Paintroid](https://github.com/Catrobat/Paintroid)
+4. 💪 Opened PR [#979](https://github.com/Catrobat/Paintroid/pull/979) in [Catrobat/Paintroid](https://github.com/Catrobat/Paintroid)
+5. 💪 Opened PR [#978](https://github.com/Catrobat/Paintroid/pull/978) in [Catrobat/Paintroid](https://github.com/Catrobat/Paintroid)
 <!--END_SECTION:activity-->
 
 </details>
