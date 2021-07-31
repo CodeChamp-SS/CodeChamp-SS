@@ -59,10 +59,10 @@ Here are some ideas to get you started:
 
   <!--START_SECTION:activity-->
 1. 🗣 Commented on [#955](https://github.com/Catrobat/Paintroid/issues/955) in [Catrobat/Paintroid](https://github.com/Catrobat/Paintroid)
-2. 🗣 Commented on [#949](https://github.com/Catrobat/Paintroid/issues/949) in [Catrobat/Paintroid](https://github.com/Catrobat/Paintroid)
-3. 🗣 Commented on [#974](https://github.com/Catrobat/Paintroid/issues/974) in [Catrobat/Paintroid](https://github.com/Catrobat/Paintroid)
-4. 💪 Opened PR [#982](https://github.com/Catrobat/Paintroid/pull/982) in [Catrobat/Paintroid](https://github.com/Catrobat/Paintroid)
-5. 💪 Opened PR [#981](https://github.com/Catrobat/Paintroid/pull/981) in [Catrobat/Paintroid](https://github.com/Catrobat/Paintroid)
+2. 🗣 Commented on [#955](https://github.com/Catrobat/Paintroid/issues/955) in [Catrobat/Paintroid](https://github.com/Catrobat/Paintroid)
+3. 🗣 Commented on [#949](https://github.com/Catrobat/Paintroid/issues/949) in [Catrobat/Paintroid](https://github.com/Catrobat/Paintroid)
+4. 🗣 Commented on [#974](https://github.com/Catrobat/Paintroid/issues/974) in [Catrobat/Paintroid](https://github.com/Catrobat/Paintroid)
+5. 💪 Opened PR [#982](https://github.com/Catrobat/Paintroid/pull/982) in [Catrobat/Paintroid](https://github.com/Catrobat/Paintroid)
 <!--END_SECTION:activity-->
 
 </details>
