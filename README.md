@@ -58,11 +58,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activities</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#979](https://github.com/Catrobat/Paintroid/issues/979) in [Catrobat/Paintroid](https://github.com/Catrobat/Paintroid)
-2. 🗣 Commented on [#919](https://github.com/Catrobat/Paintroid/issues/919) in [Catrobat/Paintroid](https://github.com/Catrobat/Paintroid)
-3. 🗣 Commented on [#962](https://github.com/Catrobat/Paintroid/issues/962) in [Catrobat/Paintroid](https://github.com/Catrobat/Paintroid)
-4. 💪 Opened PR [#997](https://github.com/Catrobat/Paintroid/pull/997) in [Catrobat/Paintroid](https://github.com/Catrobat/Paintroid)
-5. 💪 Opened PR [#996](https://github.com/Catrobat/Paintroid/pull/996) in [Catrobat/Paintroid](https://github.com/Catrobat/Paintroid)
+1. 🗣 Commented on [#926](https://github.com/Catrobat/Paintroid/issues/926) in [Catrobat/Paintroid](https://github.com/Catrobat/Paintroid)
+2. 🗣 Commented on [#979](https://github.com/Catrobat/Paintroid/issues/979) in [Catrobat/Paintroid](https://github.com/Catrobat/Paintroid)
+3. 🗣 Commented on [#919](https://github.com/Catrobat/Paintroid/issues/919) in [Catrobat/Paintroid](https://github.com/Catrobat/Paintroid)
+4. 🗣 Commented on [#962](https://github.com/Catrobat/Paintroid/issues/962) in [Catrobat/Paintroid](https://github.com/Catrobat/Paintroid)
+5. 💪 Opened PR [#997](https://github.com/Catrobat/Paintroid/pull/997) in [Catrobat/Paintroid](https://github.com/Catrobat/Paintroid)
 <!--END_SECTION:activity-->
 
 </details>
