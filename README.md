@@ -33,14 +33,17 @@ Here are some ideas to get you started:
 
 <br />
 
-## Technologies and Tools:
+## Tools and Technologies:
 <img align="left" alt="C++" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
 <img align="left" alt="Kotlin" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />
-<img align="left" alt="Java" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
+<img align="left" alt="Java" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 <img align="left" alt="Python" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="MySQL" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="Javascript" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="Node.js" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="MySQL" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Git" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="46px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Jenkins" width="120px" src="https://camo.githubusercontent.com/ec0079d7b416a8b69536d6ca8c19fe85c6e9251a1cb7cdaaab09571cf2d21d18/68747470733a2f2f7777772e6a656e6b696e732e696f2f73697465732f64656661756c742f66696c65732f6a656e6b696e735f6c6f676f2e706e67" />
 
 <br />
 <br />
@@ -74,8 +77,8 @@ Here are some ideas to get you started:
   <a href="https://github.com/CodeChamp-SS/ProTeams-ProjectManagementApp">
   <img align="center" src="https://github-readme-stats-codechamp-ss.vercel.app/api/pin/?username=CodeChamp-SS&repo=ProTeams-ProjectManagementApp&theme=radical" />
 </a>
-<a href="https://github.com/CodeChamp-SS/SwampHackGame">
-  <img align="center" src="https://github-readme-stats-codechamp-ss.vercel.app/api/pin/?username=CodeChamp-SS&repo=SwampHackGame&theme=radical" />
+<a href="https://github.com/princeminz/cf-org-ranking">
+  <img align="center" src="https://github-readme-stats-codechamp-ss.vercel.app/api/pin/?username=princeminz&repo=cf-org-ranking&theme=radical" />
 </a>
 <br />
 <a href="https://github.com/CodeChamp-SS/RunningTrackerApp">
@@ -90,4 +93,4 @@ Here are some ideas to get you started:
 
 [linkedin]: https://www.linkedin.com/in/saarthak-seth/
 [codechef]: https://www.codechef.com/users/saarthak_10
-[codeforces]: https://codeforces.com/profile/CodeChamp_SS
+[codeforces]: https://codeforces.com/profile/Saarthak_10
