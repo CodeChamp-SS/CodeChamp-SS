@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 
 ## I'm a Developer, and a Competitive Programmer !!
 
-- 🌱 I’m currently learning everything
-- 🥅 2021 Goals: Contribute more to Open Source projects and become Master on Codeforces 🤣
+- 🌱 I’m currently learning Advanced DSA, iOS and Web Development
+- 🥅 2022 Goals: Contribute more to Open Source projects and become Master on Codeforces
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: I love to do Competitve Programming and play Football, Guitar
 
