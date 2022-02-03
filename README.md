@@ -62,8 +62,8 @@ Here are some ideas to get you started:
 
   <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1034](https://github.com/Catrobat/Paintroid/issues/1034) in [Catrobat/Paintroid](https://github.com/Catrobat/Paintroid)
-2. ❌ Closed PR [#956](https://github.com/Catrobat/Paintroid/pull/956) in [Catrobat/Paintroid](https://github.com/Catrobat/Paintroid)
-3. 🗣 Commented on [#1010](https://github.com/Catrobat/Paintroid/issues/1010) in [Catrobat/Paintroid](https://github.com/Catrobat/Paintroid)
+2. 🗣 Commented on [#1034](https://github.com/Catrobat/Paintroid/issues/1034) in [Catrobat/Paintroid](https://github.com/Catrobat/Paintroid)
+3. ❌ Closed PR [#956](https://github.com/Catrobat/Paintroid/pull/956) in [Catrobat/Paintroid](https://github.com/Catrobat/Paintroid)
 4. 🗣 Commented on [#1010](https://github.com/Catrobat/Paintroid/issues/1010) in [Catrobat/Paintroid](https://github.com/Catrobat/Paintroid)
 5. 🗣 Commented on [#1010](https://github.com/Catrobat/Paintroid/issues/1010) in [Catrobat/Paintroid](https://github.com/Catrobat/Paintroid)
 <!--END_SECTION:activity-->
