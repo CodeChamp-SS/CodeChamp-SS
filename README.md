@@ -61,9 +61,9 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activities</summary>
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1069](https://github.com/Catrobat/Paintroid/pull/1069) in [Catrobat/Paintroid](https://github.com/Catrobat/Paintroid)
-2. 💪 Opened PR [#1051](https://github.com/Catrobat/Paintroid/pull/1051) in [Catrobat/Paintroid](https://github.com/Catrobat/Paintroid)
-3. 🗣 Commented on [#1034](https://github.com/Catrobat/Paintroid/issues/1034) in [Catrobat/Paintroid](https://github.com/Catrobat/Paintroid)
+1. 💪 Opened PR [#1109](https://github.com/Catrobat/Paintroid/pull/1109) in [Catrobat/Paintroid](https://github.com/Catrobat/Paintroid)
+2. 💪 Opened PR [#1069](https://github.com/Catrobat/Paintroid/pull/1069) in [Catrobat/Paintroid](https://github.com/Catrobat/Paintroid)
+3. 💪 Opened PR [#1051](https://github.com/Catrobat/Paintroid/pull/1051) in [Catrobat/Paintroid](https://github.com/Catrobat/Paintroid)
 4. 🗣 Commented on [#1034](https://github.com/Catrobat/Paintroid/issues/1034) in [Catrobat/Paintroid](https://github.com/Catrobat/Paintroid)
 5. ❌ Closed PR [#956](https://github.com/Catrobat/Paintroid/pull/956) in [Catrobat/Paintroid](https://github.com/Catrobat/Paintroid)
 <!--END_SECTION:activity-->
