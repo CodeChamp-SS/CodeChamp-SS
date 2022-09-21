@@ -61,11 +61,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activities</summary>
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8](https://github.com/Catrobat/Paintroid-Flutter/pull/8) in [Catrobat/Paintroid-Flutter](https://github.com/Catrobat/Paintroid-Flutter)
-2. 🎉 Merged PR [#1130](https://github.com/Catrobat/Paintroid/pull/1130) in [Catrobat/Paintroid](https://github.com/Catrobat/Paintroid)
-3. ❌ Closed PR [#2](https://github.com/CodeChamp-SS/Paintroid-Flutter/pull/2) in [CodeChamp-SS/Paintroid-Flutter](https://github.com/CodeChamp-SS/Paintroid-Flutter)
-4. 💪 Opened PR [#2](https://github.com/CodeChamp-SS/Paintroid-Flutter/pull/2) in [CodeChamp-SS/Paintroid-Flutter](https://github.com/CodeChamp-SS/Paintroid-Flutter)
-5. 🎉 Merged PR [#1](https://github.com/CodeChamp-SS/Paintroid-Flutter/pull/1) in [CodeChamp-SS/Paintroid-Flutter](https://github.com/CodeChamp-SS/Paintroid-Flutter)
+1. 💪 Opened PR [#9](https://github.com/Catrobat/Paintroid-Flutter/pull/9) in [Catrobat/Paintroid-Flutter](https://github.com/Catrobat/Paintroid-Flutter)
+2. 💪 Opened PR [#8](https://github.com/Catrobat/Paintroid-Flutter/pull/8) in [Catrobat/Paintroid-Flutter](https://github.com/Catrobat/Paintroid-Flutter)
+3. 🎉 Merged PR [#1130](https://github.com/Catrobat/Paintroid/pull/1130) in [Catrobat/Paintroid](https://github.com/Catrobat/Paintroid)
+4. ❌ Closed PR [#2](https://github.com/CodeChamp-SS/Paintroid-Flutter/pull/2) in [CodeChamp-SS/Paintroid-Flutter](https://github.com/CodeChamp-SS/Paintroid-Flutter)
+5. 💪 Opened PR [#2](https://github.com/CodeChamp-SS/Paintroid-Flutter/pull/2) in [CodeChamp-SS/Paintroid-Flutter](https://github.com/CodeChamp-SS/Paintroid-Flutter)
 <!--END_SECTION:activity-->
 
 </details>
