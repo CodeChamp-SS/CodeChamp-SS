@@ -1,4 +1,4 @@
-[![Visiters Badge](https://badges.pufler.dev/visits/CodeChamp-SS/CodeChamp-SS)](https://badges.pufler.dev)
+![Profile View Counter](https://komarev.com/ghpvc/?username=CodeChamp-SS)
 [![Commits Badge](https://badges.pufler.dev/commits/all/CodeChamp-SS)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/CodeChamp-SS)](https://badges.pufler.dev)
 
@@ -34,16 +34,16 @@ Here are some ideas to get you started:
 <br />
 
 ## Tools and Technologies:
-<img align="left" alt="C++" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
-<img align="left" alt="Kotlin" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />
-<img align="left" alt="Java" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-<img align="left" alt="Python" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Javascript" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Node.js" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="MySQL" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Git" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="46px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Jenkins" width="120px" src="https://camo.githubusercontent.com/ec0079d7b416a8b69536d6ca8c19fe85c6e9251a1cb7cdaaab09571cf2d21d18/68747470733a2f2f7777772e6a656e6b696e732e696f2f73697465732f64656661756c742f66696c65732f6a656e6b696e735f6c6f676f2e706e67" />
+<img align="left" alt="C++" width="80px" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img align="left" alt="Kotlin" width="100px" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
+<img align="left" alt="Java" width="60px" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
+<img align="left" alt="Python" width="100px" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+<img align="left" alt="Javascript" width="120px" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img align="left" alt="Node.js" width="100px" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+<img align="left" alt="MySQL" width="90px" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+<img align="left" alt="Git" width="70px" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+<img align="left" alt="Jenkins" width="100px" src="https://camo.githubusercontent.com/ec0079d7b416a8b69536d6ca8c19fe85c6e9251a1cb7cdaaab09571cf2d21d18/68747470733a2f2f7777772e6a656e6b696e732e696f2f73697465732f64656661756c742f66696c65732f6a656e6b696e735f6c6f676f2e706e67" />
+<!-- <img align="left" alt="Flutter" width="100px" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" /> -->
 
 <br />
 <br />
@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="centre" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-codechamp-ss.vercel.app/api?username=CodeChamp-SS&show_icons=true&hide_border=true&theme=radical" />
+  <img align="centre" alt="CodeChamp-SS's GitHub Stats" src="https://github-readme-stats-codechamp-ss.vercel.app/api?username=CodeChamp-SS&show_icons=true&hide_border=true&theme=radical" />
 
 </details>
 
