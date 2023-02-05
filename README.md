@@ -58,8 +58,8 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activities</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#19](https://github.com/Catrobat/Paintroid-Flutter/issues/19) in [Catrobat/Paintroid-Flutter](https://github.com/Catrobat/Paintroid-Flutter)
-2. 💪 Opened PR [#9](https://github.com/Catrobat/Paintroid-Flutter/pull/9) in [Catrobat/Paintroid-Flutter](https://github.com/Catrobat/Paintroid-Flutter)
+1. 🎉 Merged PR [#19](https://github.com/Catrobat/Paintroid-Flutter/pull/19) in [Catrobat/Paintroid-Flutter](https://github.com/Catrobat/Paintroid-Flutter)
+2. 🗣 Commented on [#19](https://github.com/Catrobat/Paintroid-Flutter/issues/19) in [Catrobat/Paintroid-Flutter](https://github.com/Catrobat/Paintroid-Flutter)
 3. 💪 Opened PR [#8](https://github.com/Catrobat/Paintroid-Flutter/pull/8) in [Catrobat/Paintroid-Flutter](https://github.com/Catrobat/Paintroid-Flutter)
 4. 🎉 Merged PR [#1130](https://github.com/Catrobat/Paintroid/pull/1130) in [Catrobat/Paintroid](https://github.com/Catrobat/Paintroid)
 5. 💪 Opened PR [#2](https://github.com/CodeChamp-SS/Paintroid-Flutter/pull/2) in [CodeChamp-SS/Paintroid-Flutter](https://github.com/CodeChamp-SS/Paintroid-Flutter)
